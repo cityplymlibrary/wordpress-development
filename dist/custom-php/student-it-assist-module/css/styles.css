@@ -1,0 +1,22 @@
+/* styles.css, ccp_lib_wp student id assist module, jake deery on behalf of ccp, 2020 */
+
+html, body {
+	/* set root font size & remove coloured bg in iframe */
+	font-size: 15px;
+	background-color: transparent
+}
+
+// rules for all headers
+h1, h2, h3, h4, h5 {
+	font-family: 'Arial', 'Tahoma', sans-serif
+}
+
+// rules for all subtexts
+p, strong, emphasis {
+	font-family: 'Arial', 'Tahoma', sans-serif
+}
+
+// paragraph font size
+p {
+	font-size: 1.25em
+}
