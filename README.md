@@ -1,2 +1,2 @@
-# library-pages-development
-CCP Library Pages Development Repo
+# library-wordpress-development
+CCP Library Wordpress Development Repo
